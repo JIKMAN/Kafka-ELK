@@ -44,7 +44,7 @@ services:
 
    * `-d` 커멘드를 추가하면 백그라운드에서 실행
 
-     ![image-20210720144023061](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210720144023061.png)
+     ![image-20210720144023061](../img/image-20210720144023061.png)
 
 3.  bash를 통해 컨테이너 접근
 
@@ -79,7 +79,7 @@ services:
 
 producer에서 입력한 메시지들이 Consumer에서 잘 출력 되는 것을 확인
 
-![image-20210720161654298](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210720161654298.png)
+![image-20210720161654298](../img/image-20210720161654298.png)
 
 ---
 
@@ -87,5 +87,5 @@ producer에서 입력한 메시지들이 Consumer에서 잘 출력 되는 것을
 
 kafka manager가 정상 작동되면 9000번 포트로 접근이 가능하다.
 
-![image-20210720162333069](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210720162333069.png)
+![image-20210720162333069](../img/image-20210720162333069.png)
 
