@@ -75,3 +75,5 @@ Considering the microservice logging example
 
 * Kibana will help you to see the logs of all the microservice
 * You can query over the data using Kibana and get meaning full results
+
+[Elasticsearch & Kibana Installization using docker-compose](https://github.com/JIKMAN/Kafka-ELK/blob/master/ELK/ESsearch-Kibana-Installation.md)
