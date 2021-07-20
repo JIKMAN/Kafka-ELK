@@ -15,9 +15,9 @@
 ### \# Prerequiste
 
 * Ubuntu Desktop 18.04 단일 서버 환경에서 실행했다.
-* Python 3.6.9 버전을 이용했다.
+* Python 3.8 버전을 이용했다.
 * Docker compose를 이용해 application을 설치했다.
-  * docker 및 docker compose 설치
+  * docker 및 docker compose 설치 필요
 
 ---
 
