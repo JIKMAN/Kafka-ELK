@@ -25,7 +25,7 @@
 
 > Kafka & Zookeeper & Kafka Manager
 
-* [Install Kafka-Zookeeper-KafkaManager Using Docker Composer]
+* [Install Kafka-Zookeeper-KafkaManager Using Docker Composer](https://github.com/JIKMAN/Kafka-ELK/blob/master/kafka/Kafka%20install.md)
 
 > Elasticsearch & Kibana
 
