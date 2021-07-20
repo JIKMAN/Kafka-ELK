@@ -10,7 +10,9 @@
 4. Logstash : 카프카 토픽에서 데이타를 읽어 엘라스틱서치로 데이터를 넣어주는 middle man으로서 역할한다.
 5. Kibana : 데이터를 GUI 및 대시보드 형태로 나타내준다.
 
-[What is ELK?](https://github.com/JIKMAN/Kafka-ELK/tree/master/ELK#readme)
+---
+
+* [What is ELK?](https://github.com/JIKMAN/Kafka-ELK/tree/master/ELK#readme)
 
 ---
 
