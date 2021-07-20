@@ -2,7 +2,7 @@
 
 ### \# Data Pipeline architecture
 
-<img src="https://raw.githubusercontent.com/self-tuts/blog-images-selftuts/master/data-pipeline-using-kafka-elasticsearch/architecture.jpg" alt="Kafka-ELK-Pipeline"  />
+<img src="C:\Users\user\JIKMAN\kafka-elk\img\architecture.jpg" alt="Kafka-ELK-Pipeline"  />
 
 1. Kafka Server : 데이터가 처음 publish되는 곳
 2. Producer : Producer는 데이터를 카프카 토픽으로 내보낸다.
@@ -112,7 +112,7 @@ if __name__ == "__main__":
 * 웹을 통해 `[machine IP]:9000` 로 접속
 * Add Cluster를 선택하여 아래와같이 Cluster를 구성
 
-![image-20210720163248777](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210720163248777.png)
+![image-20210720163248777](C:\Users\user\JIKMAN\kafka-elk\img\image-20210720163248777.png)
 
 ---
 
